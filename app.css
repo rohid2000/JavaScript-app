@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    margin-left: 750px;
+    background-color: grey;
+}
+
+.antwoord {
+    margin-top: 10px;
+     border-radius: 25px;
+     width: 15rem;
+     height: 50px;
+     background-color: white;
+     color: black;
+     color: black;
+     text-align: center;
+     font-size: 50px;
+}
